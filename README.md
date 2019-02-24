@@ -29,3 +29,7 @@ For more information, please check out
 * Prefer opening a new ticket or requiring a follow-up PR over rejecting the PR
 * Favor suggestions over rejections, particularly when multipart PR indicated via label
 * Review the PRs of others before opening a new PR that would exceed our WIP / PR limit
+
+## References
+
+* [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
