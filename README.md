@@ -40,3 +40,7 @@ or [LinkedIn profile](https://www.linkedin.com/in/spmaniato).
 ## References
 
 * [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+* [Valve's Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+* Spotify's Engineering Culture
+  [part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/),
+  [part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
