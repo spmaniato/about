@@ -55,8 +55,16 @@ to discuss work matters, answer technical questions, make decisions, etc.
 
 ## References
 
-* [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
-* [Valve's Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
-* Spotify's Engineering Culture
-  [part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/),
-  [part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+* Slack Engineering -
+  [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
+* Slack Engineering -
+  [How About Code Reviews?](https://slack.engineering/how-about-code-reviews-2695fb10d034)
+* Hacker Noon -
+  [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+* Valve -
+  [Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+* Spotify Engineering - Culture:
+  [Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/),
+  [Part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+* Signal v. Noise -
+  [Library Rules: How to make an open office plan work](https://m.signalvnoise.com/library-rules-how-to-make-an-open-office-plan-work/)
