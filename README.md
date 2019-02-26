@@ -3,6 +3,7 @@
 **Table of Contents**
 
 - [What I do for a living](#what-i-do-for-a-living)
+- [Communication & Collaboration](#communication--collaboration)
 - [Pull Request & Code Review manifesto](#pull-request--code-review-manifesto)
 - [References](#references)
 
@@ -14,6 +15,21 @@ at [Cruise Automation](https://getcruise.com) (aka GM Cruise).
 For more information, please check out
 [my résumé](https://spmaniato.keybase.pub/docs/Spyros_resume.pdf)
 or [LinkedIn profile](https://www.linkedin.com/in/spmaniato).
+
+## Communication & Collaboration
+
+The tl;dr is that I prefer asynchronous communication (e.g. Slack) over
+tapping me on the shoulder or calling my name from across the room.
+The same goes for collaboration.
+I would rather discuss work matters in the comments section of a
+Jira ticket, Google doc, or GitHub pull request than in person.
+Team chat would work too in this case, but the conversation would ideally
+take place in a channel specific to the project, not via direct messages (DM).
+
+These are just preferences, not rigid rules. And there are exceptions.
+For example, brainstorming, design reviews, and retrospectives are better done in person.
+However, someone should be taking notes when meeting in person
+to discuss work matters, answer technical questions, make decisions, etc.
 
 ## Pull Request & Code Review manifesto
 
