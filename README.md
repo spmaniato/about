@@ -1,6 +1,12 @@
 # About Spyros
 
-## What I do
+**Table of Contents**
+
+- [What I do for a living](#what-i-do-for-a-living)
+- [Pull Request & Code Review manifesto](#pull-request--code-review-manifesto)
+- [References](#references)
+
+## What I do for a living
 
 I'm currently a Senior Software Engineer (Vehicle Controls)
 at [Cruise Automation](https://getcruise.com) (aka GM Cruise).
