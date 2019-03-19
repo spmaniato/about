@@ -26,6 +26,8 @@ Jira ticket, Google doc, or GitHub pull request than in person.
 Team chat would work too in this case, but the conversation would ideally
 take place in a channel specific to the project, not via direct messages (DM).
 
+When you do ping me, please [don't ask to ask, just ask](https://www.dontasktoask.com).
+
 These are just preferences, not rigid rules. And there are exceptions.
 For example, brainstorming, design reviews, and retrospectives are better done in person.
 However, someone should be taking notes when meeting in person
@@ -55,6 +57,9 @@ to discuss work matters, answer technical questions, make decisions, etc.
 
 ## References
 
+* Miscellaneous
+  * [Don't ask to ask, just ask](https://www.dontasktoask.com)
+  * [The XY Problem](http://xyproblem.info/)
 * Slack Engineering -
   [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
 * Slack Engineering -
