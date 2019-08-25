@@ -9,8 +9,7 @@
 
 ## What I do for a living
 
-I'm currently a Senior Software Engineer (Vehicle Controls)
-at [Cruise Automation](https://getcruise.com) (aka GM Cruise).
+I'm currently a Senior Software Engineer at [Cruise](https://getcruise.com).
 
 For more information, please check out
 [my résumé](https://spmaniato.keybase.pub/docs/Spyros_resume.pdf)
